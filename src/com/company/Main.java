@@ -12,5 +12,6 @@ public class Main {
         //comment comment
 
         System.out.println("Yay git works!");
+        System.out.println("Yay git works!");
     }
 }
