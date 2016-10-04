@@ -8,5 +8,9 @@ public class Main {
 
         System.out.println("First try:");
         System.out.println("Hello World!");
+
+        //comment comment
+
+        System.out.println("Yay git works!");
     }
 }
